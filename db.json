@@ -42,5 +42,13 @@
       "message": "saldfjsdfdsfasdf;l'j",
       "id": 3
     }
+  ],
+  "adminSignup": [
+    {
+      "id": 1,
+      "name": "mhd",
+      "email": "mhd@g.co",
+      "password": "asd123"
+    }
   ]
 }

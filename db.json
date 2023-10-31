@@ -81,5 +81,178 @@
       "package": 5,
       "id": 1
     }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "hostUrl": "https://mhdrabeai.github.io/Elzero-Dashboard/",
+      "gitHub": "https://github.com/MhdRabeai/Elzero-Dashboard",
+      "imgUrl": "https://www4.0zz0.com/2023/10/31/10/485416509.png",
+      "adj": "Web Design",
+      "name": "Elzero Dashboard",
+      "desc": "A responsive template created using only HTML,CSS,and JavaScript."
+    },
+    {
+      "id": 2,
+      "hostUrl": "https://mhdrabeai.github.io/EGATOR/",
+      "gitHub": "https://github.com/MhdRabeai/EGATOR",
+      "imgUrl": "https://www7.0zz0.com/2023/10/31/10/597602334.png",
+      "adj": "Web Design",
+      "name": "EGATOR",
+      "desc": "A responsive template created using only HTML,CSS,and JavaScript"
+    },
+    {
+      "id": 3,
+      "hostUrl": "https://mhdrabeai.github.io/EGATOR-DashBord/",
+      "gitHub": "https://github.com/MhdRabeai/EGATOR-DashBord",
+      "imgUrl": "https://www6.0zz0.com/2023/10/31/10/695448531.png",
+      "adj": "Web Design",
+      "name": "EGATOR-DashBord",
+      "desc": "A responsive template created using only HTML,CSS,and JavaScript"
+    },
+    {
+      "id": 4,
+      "hostUrl": "https://mhdrabeai.github.io/Elixir/",
+      "gitHub": "https://github.com/MhdRabeai/Elixir",
+      "imgUrl": "https://www.raed.net/img?id=446477",
+      "adj": "Web Design",
+      "name": "Elixir",
+      "desc": "A responsive template that include some animations created using HTML, CSS, BootStrap and Jquery."
+    },
+    {
+      "id": 5,
+      "hostUrl": "https://mhdrabeai.github.io/Hunt/",
+      "gitHub": "https://github.com/MhdRabeai/Hunt",
+      "imgUrl": "",
+      "adj": "Web Design",
+      "name": "Ethan Hunt.",
+      "desc": "A responsive template that include some animations created using HTML, CSS, BootStrap and Jquery."
+    },
+    {
+      "id": 6,
+      "hostUrl": "https://mhdrabeai.github.io/Hunt/",
+      "gitHub": "https://github.com/MhdRabeai/Hunt",
+      "imgUrl": "https://www.raed.net/img?id=446506",
+      "adj": "Web Design",
+      "name": "Ethan Hunt.",
+      "desc": "A responsive template that include some animations created using HTML, CSS, BootStrap and Jquery."
+    },
+    {
+      "id": 7,
+      "hostUrl": "https://mhdrabeai.github.io/Prixima/",
+      "gitHub": "https://github.com/MhdRabeai/Prixima",
+      "imgUrl": "https://www.raed.net/img?id=446504",
+      "adj": "Web Design",
+      "name": "Prixima.",
+      "desc": "A responsive template that include some animations created using HTML, CSS, BootStrap ,JavaScript and Jquery."
+    },
+    {
+      "id": 8,
+      "hostUrl": "https://mhdrabeai.github.io/Spicial-Design/",
+      "gitHub": "https://github.com/MhdRabeai/Spicial-Design",
+      "imgUrl": "https://www.raed.net/img?id=446503",
+      "adj": "Web Design",
+      "name": "Spicial Design.",
+      "desc": "A responsive template created using only HTML,CSS,and JavaScript ."
+    },
+    {
+      "id": 9,
+      "hostUrl": "https://mhdrabeai.github.io/Upwork/",
+      "gitHub": "https://github.com/MhdRabeai/Upwork",
+      "imgUrl": "https://www.raed.net/img?id=446502",
+      "adj": "Web Design",
+      "name": "Upwork",
+      "desc": "A responsive template that include some animations created using HTML, CSS, BootStrap ,JavaScript and Jquery."
+    },
+    {
+      "id": 10,
+      "hostUrl": "https://mhdrabeai.github.io/Elzero-/",
+      "gitHub": "https://github.com/MhdRabeai/Elzero-",
+      "imgUrl": "https://www.raed.net/img?id=446494",
+      "adj": "Web Design",
+      "name": "Elzero",
+      "desc": "A responsive template created using only HTML,CSS,and JavaScript ."
+    },
+    {
+      "id": 11,
+      "hostUrl": "https://mhdrabeai.github.io/Jon-Portfolio/",
+      "gitHub": "https://github.com/MhdRabeai/Jon-Portfolio",
+      "imgUrl": "https://www.raed.net/img?id=446496",
+      "adj": "Web Design",
+      "name": "Jon-Portfolio",
+      "desc": "A responsive template that include some animations created using HTML, CSS, BootStrap ,JavaScript and Jquery."
+    },
+    {
+      "id": 12,
+      "hostUrl": "https://empproject-0vbj.onrender.com/",
+      "gitHub": "https://github.com/MhdRabeai/empProject",
+      "imgUrl": "https://www.raed.net/img?id=446490",
+      "adj": "Angular & Json-Server",
+      "name": "Employees App",
+      "desc": "This application is built using Angular with Angular-Material based on a RESTful Api of Json-Server"
+    },
+    {
+      "id": 13,
+      "hostUrl": " https://market-fc77e.web.app",
+      "gitHub": "https://github.com/MhdRabeai/Market",
+      "imgUrl": "https://www.raed.net/img?id=446493",
+      "adj": "Angular & Firebase",
+      "name": "Market App",
+      "desc": "This application is built using Angular with Bootstrap based on a RESTful Api of Firebase"
+    },
+    {
+      "id": 14,
+      "hostUrl": " https://gym-regitration.onrender.com/register",
+      "gitHub": "https://github.com/MhdRabeai/Gym-Regitration",
+      "imgUrl": "https://www.raed.net/img?id=446495",
+      "adj": "Angular & Json-Server",
+      "name": "Gym-Regitration",
+      "desc": "This application is built using Angular with Angular-Material based on a RESTful Api of Json-Server"
+    },
+    {
+      "id": 15,
+      "hostUrl": " https://angular-deploy-app-zjic.onrender.com/coin-list",
+      "gitHub": "https://github.com/MhdRabeai/Cryptocurrency-price",
+      "imgUrl": "https://www.raed.net/img?id=446500",
+      "adj": "Angular ",
+      "name": "Cryptocurrency-price",
+      "desc": "This application is built using Angular with Angular-Material based on a Fake Api"
+    },
+    {
+      "id": 16,
+      "hostUrl": " https://github.com/MhdRabeai/NewsApp",
+      "gitHub": "https://github.com/MhdRabeai/NewsApp",
+      "imgUrl": "https://www.raed.net/img?id=446608",
+      "adj": "Angular ",
+      "name": "NewsApp",
+      "desc": "This application is built using Angular with Angular-Material based on a Fake Api"
+    },
+    {
+      "id": 17,
+      "hostUrl": " https://contact-management-xlwm.onrender.com/login-signup",
+      "gitHub": "https://github.com/MhdRabeai/contact-management",
+      "imgUrl": "https://www.raed.net/img?id=446491",
+      "adj": "Angular ",
+      "name": "NewsApp",
+      "desc": "This application is built using Angular with Bootstrap based on a RESTful Api of Json-Server"
+    },
+    {
+      "id": 18,
+      "hostUrl": " https://myfirebase-b6bc9.web.app/login",
+      "gitHub": "https://github.com/MhdRabeai/Firebase-Auth-ForgotPass",
+      "imgUrl": "https://www.raed.net/img?id=446618",
+      "adj": "Angular & Firebase ",
+      "name": "Firebase Authentication & Email verification",
+      "desc": "This application is built using Angular with Bootstrap "
+    },
+    {
+      "id": 19,
+      "hostUrl": " https://todoapp-v6o9.onrender.com/",
+      "gitHub": "https://github.com/MhdRabeai/To-Do-App",
+      "imgUrl": "https://www.raed.net/img?id=446619",
+      "adj": "Angular ",
+      "name": "Todo App",
+      "desc": "This application is built using Angular with Bootstrap "
+    }
   ]
 }

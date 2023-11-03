@@ -194,7 +194,7 @@
     },
     {
       "id": 14,
-      "hostUrl": " https://gym-regitration.onrender.com/register",
+      "hostUrl": " https://gym-regitration.onrender.com/",
       "gitHub": "https://github.com/MhdRabeai/Gym-Regitration",
       "imgUrl": "https://www.raed.net/img?id=446495",
       "adj": "Angular & Json-Server",
@@ -203,7 +203,7 @@
     },
     {
       "id": 15,
-      "hostUrl": " https://angular-deploy-app-zjic.onrender.com/coin-list",
+      "hostUrl": " https://angular-deploy-app-zjic.onrender.com/",
       "gitHub": "https://github.com/MhdRabeai/Cryptocurrency-price",
       "imgUrl": "https://www.raed.net/img?id=446500",
       "adj": "Angular ",
@@ -221,7 +221,7 @@
     },
     {
       "id": 17,
-      "hostUrl": " https://contact-management-xlwm.onrender.com/login-signup",
+      "hostUrl": " https://contact-management-xlwm.onrender.com/",
       "gitHub": "https://github.com/MhdRabeai/contact-management",
       "imgUrl": "https://www.raed.net/img?id=446491",
       "adj": "Angular ",
@@ -230,7 +230,7 @@
     },
     {
       "id": 18,
-      "hostUrl": " https://myfirebase-b6bc9.web.app/login",
+      "hostUrl": " https://myfirebase-b6bc9.web.app/",
       "gitHub": "https://github.com/MhdRabeai/Firebase-Auth-ForgotPass",
       "imgUrl": "https://www.raed.net/img?id=446618",
       "adj": "Angular & Firebase ",

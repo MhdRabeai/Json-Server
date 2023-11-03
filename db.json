@@ -234,8 +234,8 @@
       "gitHub": "https://github.com/MhdRabeai/Firebase-Auth-ForgotPass",
       "imgUrl": "https://www.raed.net/img?id=446618",
       "adj": "Angular & Firebase ",
-      "name": "Auth & Email verification",
-      "desc": "This application is built using Angular with Bootstrap "
+      "name": "Auth & verification",
+      "desc": "This application is built using Angular with Bootstrap contains Firebase Authentication & Email verification"
     },
     {
       "id": 19,

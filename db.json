@@ -198,7 +198,7 @@
       "gitHub": "https://github.com/MhdRabeai/Gym-Regitration",
       "imgUrl": "https://www.raed.net/img?id=446495",
       "adj": "Angular & Json-Server",
-      "name": "Gym-Regitration",
+      "name": "Gym-Regitration.",
       "desc": "This application is built using Angular with Angular-Material based on a RESTful Api of Json-Server"
     },
     {
@@ -225,7 +225,7 @@
       "gitHub": "https://github.com/MhdRabeai/contact-management",
       "imgUrl": "https://www.raed.net/img?id=446491",
       "adj": "Angular ",
-      "name": "NewsApp",
+      "name": "Contact-Management",
       "desc": "This application is built using Angular with Bootstrap based on a RESTful Api of Json-Server"
     },
     {

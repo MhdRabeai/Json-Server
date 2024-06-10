@@ -1,7 +1,8 @@
 {
   "posts":[{
     "body":"test",
-    "author":"first"
+    "author":"first",
+    "id":1
   }],
   "contacts": [
     {

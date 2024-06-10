@@ -1,4 +1,8 @@
 {
+  "posts":[{
+    "body":"test",
+    "author":"first"
+  }],
   "contacts": [
     {
       "firstName": "mhd",
